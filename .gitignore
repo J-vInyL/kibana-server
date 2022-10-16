@@ -1,0 +1,4 @@
+config/
+migrations/
+yaml_files/
+node_modules/

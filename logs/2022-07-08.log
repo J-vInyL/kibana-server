@@ -1,0 +1,1673 @@
+2022-07-08 00:00:00 error: ERROR MESSAGE / ResponseError: illegal_argument_exception: [illegal_argument_exception] Reason: index [.ds-metrics-system.network-default-2022.06.12-000004] is the write index for data stream [metrics-system.network-default] and cannot be deleted
+2022-07-08 00:00:00 error: ERROR MESSAGE / ResponseError: illegal_argument_exception: [illegal_argument_exception] Reason: index [.ds-metrics-system.memory-default-2022.06.12-000004] is the write index for data stream [metrics-system.memory-default] and cannot be deleted
+2022-07-08 00:00:00 error: ERROR MESSAGE / ResponseError: illegal_argument_exception: [illegal_argument_exception] Reason: index [.ds-metrics-system.cpu-default-2022.06.12-000004] is the write index for data stream [metrics-system.cpu-default] and cannot be deleted
+2022-07-08 00:00:00 error: ERROR MESSAGE / ResponseError: illegal_argument_exception: [illegal_argument_exception] Reason: index [.ds-metrics-elastic_agent.metricbeat-default-2022.06.12-000004] is the write index for data stream [metrics-elastic_agent.metricbeat-default] and cannot be deleted
+2022-07-08 00:00:00 error: ERROR MESSAGE / ResponseError: illegal_argument_exception: [illegal_argument_exception] Reason: index [.ds-metrics-system.filesystem-default-2022.06.12-000004] is the write index for data stream [metrics-system.filesystem-default] and cannot be deleted
+2022-07-08 00:00:00 error: ERROR MESSAGE / ResponseError: illegal_argument_exception: [illegal_argument_exception] Reason: index [.ds-logs-elastic_agent.metricbeat-default-2022.06.13-000004] is the write index for data stream [logs-elastic_agent.metricbeat-default] and cannot be deleted
+2022-07-08 00:00:00 error: ERROR MESSAGE / ResponseError: illegal_argument_exception: [illegal_argument_exception] Reason: index [.ds-logs-elastic_agent-default-2022.06.12-000004] is the write index for data stream [logs-elastic_agent-default] and cannot be deleted
+2022-07-08 00:00:00 error: ERROR MESSAGE / ResponseError: illegal_argument_exception: [illegal_argument_exception] Reason: index [.ds-metrics-elastic_agent.elastic_agent-default-2022.06.12-000004] is the write index for data stream [metrics-elastic_agent.elastic_agent-default] and cannot be deleted
+2022-07-08 00:06:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:06 KST
+
+2022-07-08 00:06:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:06 KST
+
+2022-07-08 00:06:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:06 KST
+
+2022-07-08 00:06:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:06 KST
+
+2022-07-08 00:06:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:06 KST
+
+2022-07-08 00:06:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:06 KST
+
+2022-07-08 00:07:19 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 00:07:19 info: GET / INFO:elastalert:Sleeping for 599.999696 seconds
+
+2022-07-08 00:07:21 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 00:07:21 info: GET / INFO:elastalert:Sleeping for 599.999804 seconds
+
+2022-07-08 00:07:27 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999801 seconds
+
+2022-07-08 00:08:40 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 00:08:40 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-07 23:50 KST to 2022-07-08 00:08 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 00:08:40 info: GET / INFO:elastalert:CPU usgae range 1120
+
+2022-07-08 00:16:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:16 KST
+
+2022-07-08 00:16:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:16 KST
+
+2022-07-08 00:16:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:16 KST
+
+2022-07-08 00:16:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:16 KST
+
+2022-07-08 00:16:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:16 KST
+
+2022-07-08 00:16:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:16 KST
+
+2022-07-08 00:17:19 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 00:17:19 info: GET / INFO:elastalert:Sleeping for 599.999751 seconds
+
+2022-07-08 00:17:21 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999712 seconds
+
+2022-07-08 00:17:27 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 00:17:27 info: GET / INFO:elastalert:Sleeping for 599.999791 seconds
+
+2022-07-08 00:18:41 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 00:18:41 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 00:00 KST to 2022-07-08 00:18 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 00:18:41 info: GET / INFO:elastalert:CPU usgae range 1121
+
+2022-07-08 00:26:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:26 KST
+
+2022-07-08 00:26:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:26 KST
+
+2022-07-08 00:26:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:26 KST
+
+2022-07-08 00:26:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:26 KST
+
+2022-07-08 00:26:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:26 KST
+
+2022-07-08 00:26:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:26 KST
+
+2022-07-08 00:27:19 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999762 seconds
+
+2022-07-08 00:27:21 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 00:27:21 info: GET / INFO:elastalert:Sleeping for 599.999795 seconds
+
+2022-07-08 00:27:27 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 00:27:27 info: GET / INFO:elastalert:Sleeping for 599.999779 seconds
+
+2022-07-08 00:28:45 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 00:28:45 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 00:10 KST to 2022-07-08 00:28 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 00:28:45 info: GET / INFO:elastalert:CPU usgae range 1125
+
+2022-07-08 00:36:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:36 KST
+
+2022-07-08 00:36:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:36 KST
+
+2022-07-08 00:36:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:36 KST
+
+2022-07-08 00:36:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:36 KST
+
+2022-07-08 00:36:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:36 KST
+
+2022-07-08 00:36:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:36 KST
+
+2022-07-08 00:37:19 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 00:37:19 info: GET / INFO:elastalert:Sleeping for 599.999771 seconds
+
+2022-07-08 00:37:21 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 00:37:21 info: GET / INFO:elastalert:Sleeping for 599.999793 seconds
+
+2022-07-08 00:37:27 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 00:37:27 info: GET / INFO:elastalert:Sleeping for 599.999807 seconds
+
+2022-07-08 00:38:50 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 00:38:50 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 00:20 KST to 2022-07-08 00:38 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 00:38:50 info: GET / INFO:elastalert:CPU usgae range 1130
+
+2022-07-08 00:46:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:46 KST
+
+2022-07-08 00:46:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:46 KST
+
+2022-07-08 00:46:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:46 KST
+
+2022-07-08 00:46:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:46 KST
+
+2022-07-08 00:46:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:46 KST
+
+2022-07-08 00:46:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:46 KST
+
+2022-07-08 00:47:19 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 00:47:19 info: GET / INFO:elastalert:Sleeping for 599.999708 seconds
+
+2022-07-08 00:47:22 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999751 seconds
+
+2022-07-08 00:47:27 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 00:47:27 info: GET / INFO:elastalert:Sleeping for 599.999574 seconds
+
+2022-07-08 00:48:50 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 00:48:50 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 00:30 KST to 2022-07-08 00:48 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 00:48:50 info: GET / INFO:elastalert:CPU usgae range 1130
+
+2022-07-08 00:56:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:56 KST
+
+2022-07-08 00:56:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:56 KST
+
+2022-07-08 00:56:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:56 KST
+
+2022-07-08 00:56:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:56 KST
+
+2022-07-08 00:56:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 00:56 KST
+
+2022-07-08 00:56:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 00:56 KST
+
+2022-07-08 00:57:19 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999779 seconds
+
+2022-07-08 00:57:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 00:57:22 info: GET / INFO:elastalert:Sleeping for 599.999799 seconds
+
+2022-07-08 00:57:27 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 00:57:27 info: GET / INFO:elastalert:Sleeping for 599.999785 seconds
+
+2022-07-08 00:58:52 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 00:58:52 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 00:40 KST to 2022-07-08 00:58 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 00:58:52 info: GET / INFO:elastalert:CPU usgae range 1132
+
+2022-07-08 01:06:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:06 KST
+
+2022-07-08 01:06:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:06 KST
+
+2022-07-08 01:06:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:06 KST
+
+2022-07-08 01:06:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:06 KST
+
+2022-07-08 01:06:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:06 KST
+
+2022-07-08 01:06:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:06 KST
+
+2022-07-08 01:07:19 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 01:07:19 info: GET / INFO:elastalert:Sleeping for 599.999741 seconds
+
+2022-07-08 01:07:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 01:07:22 info: GET / INFO:elastalert:Sleeping for 599.999797 seconds
+
+2022-07-08 01:07:27 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 01:07:27 info: GET / INFO:elastalert:Sleeping for 599.999797 seconds
+
+2022-07-08 01:08:53 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 01:08:53 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 00:50 KST to 2022-07-08 01:08 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 01:08:53 info: GET / INFO:elastalert:CPU usgae range 1133
+
+2022-07-08 01:16:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:16 KST
+
+2022-07-08 01:16:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:16 KST
+
+2022-07-08 01:16:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:16 KST
+
+2022-07-08 01:16:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:16 KST
+
+2022-07-08 01:16:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:16 KST
+
+2022-07-08 01:16:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:16 KST
+
+2022-07-08 01:17:19 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 01:17:19 info: GET / INFO:elastalert:Sleeping for 599.999756 seconds
+
+2022-07-08 01:17:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 01:17:22 info: GET / INFO:elastalert:Sleeping for 599.999802 seconds
+
+2022-07-08 01:17:27 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999793 seconds
+
+2022-07-08 01:18:54 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 01:18:54 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 01:00 KST to 2022-07-08 01:18 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+INFO:elastalert:CPU usgae range 1134
+
+2022-07-08 01:26:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:26 KST
+
+2022-07-08 01:26:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:26 KST
+
+2022-07-08 01:26:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:26 KST
+
+2022-07-08 01:26:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:26 KST
+
+2022-07-08 01:26:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:26 KST
+
+2022-07-08 01:26:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:26 KST
+
+2022-07-08 01:27:19 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 01:27:19 info: GET / INFO:elastalert:Sleeping for 599.999736 seconds
+
+2022-07-08 01:27:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 01:27:22 info: GET / INFO:elastalert:Sleeping for 599.999765 seconds
+
+2022-07-08 01:27:27 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 01:27:27 info: GET / INFO:elastalert:Sleeping for 599.999782 seconds
+
+2022-07-08 01:28:59 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 01:28:59 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 01:10 KST to 2022-07-08 01:28 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+INFO:elastalert:CPU usgae range 1139
+
+2022-07-08 01:36:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:36 KST
+
+2022-07-08 01:36:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:36 KST
+
+2022-07-08 01:36:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:36 KST
+
+2022-07-08 01:36:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:36 KST
+
+2022-07-08 01:36:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:36 KST
+
+2022-07-08 01:36:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:36 KST
+
+2022-07-08 01:37:19 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999772 seconds
+
+2022-07-08 01:37:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 01:37:22 info: GET / INFO:elastalert:Sleeping for 599.9998 seconds
+
+2022-07-08 01:37:27 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 01:37:27 info: GET / INFO:elastalert:Sleeping for 599.99979 seconds
+
+2022-07-08 01:39:00 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 01:39:00 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 01:20 KST to 2022-07-08 01:39 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 01:39:00 info: GET / INFO:elastalert:CPU usgae range 1140
+
+2022-07-08 01:46:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:46 KST
+
+2022-07-08 01:46:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:46 KST
+
+2022-07-08 01:46:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:46 KST
+
+2022-07-08 01:46:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:46 KST
+
+2022-07-08 01:46:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:46 KST
+
+2022-07-08 01:46:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:46 KST
+
+2022-07-08 01:47:19 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999735 seconds
+
+2022-07-08 01:47:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 01:47:22 info: GET / INFO:elastalert:Sleeping for 599.999763 seconds
+
+2022-07-08 01:47:27 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999763 seconds
+
+2022-07-08 01:49:02 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 01:49:02 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 01:30 KST to 2022-07-08 01:49 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 01:49:02 info: GET / INFO:elastalert:CPU usgae range 1142
+
+2022-07-08 01:56:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:56 KST
+
+2022-07-08 01:56:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:56 KST
+
+2022-07-08 01:56:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:56 KST
+
+2022-07-08 01:56:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:56 KST
+
+2022-07-08 01:56:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 01:56 KST
+
+2022-07-08 01:56:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 01:56 KST
+
+2022-07-08 01:57:19 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 01:57:19 info: GET / INFO:elastalert:Sleeping for 599.999777 seconds
+
+2022-07-08 01:57:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 01:57:22 info: GET / INFO:elastalert:Sleeping for 599.999769 seconds
+
+2022-07-08 01:57:27 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 01:57:27 info: GET / INFO:elastalert:Sleeping for 599.999781 seconds
+
+2022-07-08 01:59:04 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 01:59:04 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 01:40 KST to 2022-07-08 01:59 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 01:59:04 info: GET / INFO:elastalert:CPU usgae range 1144
+
+2022-07-08 02:06:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:06 KST
+
+2022-07-08 02:06:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:06 KST
+
+2022-07-08 02:06:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:06 KST
+
+2022-07-08 02:06:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:06 KST
+
+2022-07-08 02:06:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:06 KST
+
+2022-07-08 02:06:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:06 KST
+
+2022-07-08 02:07:20 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999761 seconds
+
+2022-07-08 02:07:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 02:07:22 info: GET / INFO:elastalert:Sleeping for 599.999774 seconds
+
+2022-07-08 02:07:27 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 02:07:27 info: GET / INFO:elastalert:Sleeping for 599.999792 seconds
+
+2022-07-08 02:09:07 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 02:09:07 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 01:50 KST to 2022-07-08 02:09 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 02:09:07 info: GET / INFO:elastalert:CPU usgae range 1147
+
+2022-07-08 02:16:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:16 KST
+
+2022-07-08 02:16:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:16 KST
+
+2022-07-08 02:16:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:16 KST
+
+2022-07-08 02:16:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:16 KST
+
+2022-07-08 02:16:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:16 KST
+
+2022-07-08 02:16:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:16 KST
+
+2022-07-08 02:17:20 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999782 seconds
+
+2022-07-08 02:17:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 02:17:22 info: GET / INFO:elastalert:Sleeping for 599.999762 seconds
+
+2022-07-08 02:17:27 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999789 seconds
+
+2022-07-08 02:19:10 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 02:19:10 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 02:00 KST to 2022-07-08 02:19 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+INFO:elastalert:CPU usgae range 1150
+
+2022-07-08 02:26:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:26 KST
+
+2022-07-08 02:26:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:26 KST
+
+2022-07-08 02:26:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:26 KST
+
+2022-07-08 02:26:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:26 KST
+
+2022-07-08 02:26:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:26 KST
+
+2022-07-08 02:26:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:26 KST
+
+2022-07-08 02:27:20 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999787 seconds
+
+2022-07-08 02:27:22 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999758 seconds
+
+2022-07-08 02:27:27 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 02:27:27 info: GET / INFO:elastalert:Sleeping for 599.999798 seconds
+
+2022-07-08 02:29:10 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 02:29:10 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 02:10 KST to 2022-07-08 02:29 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 02:29:10 info: GET / INFO:elastalert:CPU usgae range 1150
+
+2022-07-08 02:36:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:36 KST
+
+2022-07-08 02:36:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:36 KST
+
+2022-07-08 02:36:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:36 KST
+
+2022-07-08 02:36:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:36 KST
+
+2022-07-08 02:36:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:36 KST
+
+2022-07-08 02:36:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:36 KST
+
+2022-07-08 02:37:20 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 02:37:20 info: GET / INFO:elastalert:Sleeping for 599.999712 seconds
+
+2022-07-08 02:37:22 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999761 seconds
+
+2022-07-08 02:37:28 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 02:37:28 info: GET / INFO:elastalert:Sleeping for 599.999749 seconds
+
+2022-07-08 02:39:11 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 02:39:11 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 02:20 KST to 2022-07-08 02:39 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+INFO:elastalert:CPU usgae range 1151
+
+2022-07-08 02:46:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:46 KST
+
+2022-07-08 02:46:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:46 KST
+
+2022-07-08 02:46:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:46 KST
+
+2022-07-08 02:46:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:46 KST
+
+2022-07-08 02:46:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:46 KST
+
+2022-07-08 02:46:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:46 KST
+
+2022-07-08 02:47:20 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 02:47:20 info: GET / INFO:elastalert:Sleeping for 599.99976 seconds
+
+2022-07-08 02:47:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 02:47:22 info: GET / INFO:elastalert:Sleeping for 599.999733 seconds
+
+2022-07-08 02:47:28 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 02:47:28 info: GET / INFO:elastalert:Sleeping for 599.99979 seconds
+
+2022-07-08 02:49:14 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 02:49:14 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 02:30 KST to 2022-07-08 02:49 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 02:49:14 info: GET / INFO:elastalert:CPU usgae range 1154
+
+2022-07-08 02:56:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:56 KST
+
+2022-07-08 02:56:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:56 KST
+
+2022-07-08 02:56:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:56 KST
+
+2022-07-08 02:56:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:56 KST
+
+2022-07-08 02:56:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 02:56 KST
+
+2022-07-08 02:56:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 02:56 KST
+
+2022-07-08 02:57:20 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999758 seconds
+
+2022-07-08 02:57:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 02:57:22 info: GET / INFO:elastalert:Sleeping for 599.999743 seconds
+
+2022-07-08 02:57:28 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 02:57:28 info: GET / INFO:elastalert:Sleeping for 599.999759 seconds
+
+2022-07-08 02:59:14 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 02:59:14 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 02:40 KST to 2022-07-08 02:59 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 02:59:14 info: GET / INFO:elastalert:CPU usgae range 1154
+
+2022-07-08 03:06:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:06 KST
+
+2022-07-08 03:06:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:06 KST
+
+2022-07-08 03:06:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:06 KST
+
+2022-07-08 03:06:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:06 KST
+
+2022-07-08 03:06:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:06 KST
+
+2022-07-08 03:06:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:06 KST
+
+2022-07-08 03:07:20 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 03:07:20 info: GET / INFO:elastalert:Sleeping for 599.999742 seconds
+
+2022-07-08 03:07:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 03:07:22 info: GET / INFO:elastalert:Sleeping for 599.999753 seconds
+
+2022-07-08 03:07:28 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999769 seconds
+
+2022-07-08 03:09:18 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 03:09:18 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 02:50 KST to 2022-07-08 03:09 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 03:09:18 info: GET / INFO:elastalert:CPU usgae range 1158
+
+2022-07-08 03:16:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:16 KST
+
+2022-07-08 03:16:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:16 KST
+
+2022-07-08 03:16:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:16 KST
+
+2022-07-08 03:16:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:16 KST
+
+2022-07-08 03:16:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:16 KST
+
+2022-07-08 03:16:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:16 KST
+
+2022-07-08 03:17:20 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 03:17:20 info: GET / INFO:elastalert:Sleeping for 599.999781 seconds
+
+2022-07-08 03:17:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 03:17:22 info: GET / INFO:elastalert:Sleeping for 599.999776 seconds
+
+2022-07-08 03:17:28 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 03:17:28 info: GET / INFO:elastalert:Sleeping for 599.999754 seconds
+
+2022-07-08 03:19:19 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 03:19:19 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 03:00 KST to 2022-07-08 03:19 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 03:19:19 info: GET / INFO:elastalert:CPU usgae range 1159
+
+2022-07-08 03:26:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:26 KST
+
+2022-07-08 03:26:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:26 KST
+
+2022-07-08 03:26:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:26 KST
+
+2022-07-08 03:26:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:26 KST
+
+2022-07-08 03:26:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:26 KST
+
+2022-07-08 03:26:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:26 KST
+
+2022-07-08 03:27:20 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999724 seconds
+
+2022-07-08 03:27:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 03:27:22 info: GET / INFO:elastalert:Sleeping for 599.999769 seconds
+
+2022-07-08 03:27:28 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 03:27:28 info: GET / INFO:elastalert:Sleeping for 599.999722 seconds
+
+2022-07-08 03:29:19 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 03:29:19 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 03:10 KST to 2022-07-08 03:29 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 03:29:19 info: GET / INFO:elastalert:CPU usgae range 1159
+
+2022-07-08 03:36:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:36 KST
+
+2022-07-08 03:36:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:36 KST
+
+2022-07-08 03:36:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:36 KST
+
+2022-07-08 03:36:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:36 KST
+
+2022-07-08 03:36:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:36 KST
+
+2022-07-08 03:36:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:36 KST
+
+2022-07-08 03:37:20 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 03:37:20 info: GET / INFO:elastalert:Sleeping for 599.99974 seconds
+
+2022-07-08 03:37:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 03:37:22 info: GET / INFO:elastalert:Sleeping for 599.999737 seconds
+
+2022-07-08 03:37:28 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999759 seconds
+
+2022-07-08 03:39:22 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 03:39:22 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 03:20 KST to 2022-07-08 03:39 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 03:39:22 info: GET / INFO:elastalert:CPU usgae range 1162
+
+2022-07-08 03:46:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:46 KST
+
+2022-07-08 03:46:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:46 KST
+
+2022-07-08 03:46:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:46 KST
+
+2022-07-08 03:46:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:46 KST
+
+2022-07-08 03:46:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:46 KST
+
+2022-07-08 03:46:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:46 KST
+
+2022-07-08 03:47:20 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999759 seconds
+
+2022-07-08 03:47:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 03:47:22 info: GET / INFO:elastalert:Sleeping for 599.999767 seconds
+
+2022-07-08 03:47:28 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 03:47:28 info: GET / INFO:elastalert:Sleeping for 599.999788 seconds
+
+2022-07-08 03:49:24 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 03:49:24 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 03:30 KST to 2022-07-08 03:49 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 03:49:24 info: GET / INFO:elastalert:CPU usgae range 1164
+
+2022-07-08 03:56:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:56 KST
+
+2022-07-08 03:56:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:56 KST
+
+2022-07-08 03:56:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:56 KST
+
+2022-07-08 03:56:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:56 KST
+
+2022-07-08 03:56:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 03:56 KST
+
+2022-07-08 03:56:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 03:56 KST
+
+2022-07-08 03:57:20 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999769 seconds
+
+2022-07-08 03:57:22 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999736 seconds
+
+2022-07-08 03:57:28 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 03:57:28 info: GET / INFO:elastalert:Sleeping for 599.999772 seconds
+
+2022-07-08 03:59:27 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 03:59:28 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 03:40 KST to 2022-07-08 03:59 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+INFO:elastalert:CPU usgae range 1167
+
+2022-07-08 04:06:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:06 KST
+
+2022-07-08 04:06:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:06 KST
+
+2022-07-08 04:06:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:06 KST
+
+2022-07-08 04:06:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:06 KST
+
+2022-07-08 04:06:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:06 KST
+
+2022-07-08 04:06:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:06 KST
+
+2022-07-08 04:07:20 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:07:20 info: GET / INFO:elastalert:Sleeping for 599.999763 seconds
+
+2022-07-08 04:07:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:07:22 info: GET / INFO:elastalert:Sleeping for 599.999784 seconds
+
+2022-07-08 04:07:28 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:07:28 info: GET / INFO:elastalert:Sleeping for 599.999789 seconds
+
+2022-07-08 04:09:31 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 04:09:31 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 03:50 KST to 2022-07-08 04:09 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 04:09:31 info: GET / INFO:elastalert:CPU usgae range 1171
+
+2022-07-08 04:16:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:16 KST
+
+2022-07-08 04:16:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:16 KST
+
+2022-07-08 04:16:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:16 KST
+
+2022-07-08 04:16:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:16 KST
+
+2022-07-08 04:16:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:16 KST
+
+2022-07-08 04:16:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:16 KST
+
+2022-07-08 04:17:20 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:17:20 info: GET / INFO:elastalert:Sleeping for 599.999761 seconds
+
+2022-07-08 04:17:23 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:17:23 info: GET / INFO:elastalert:Sleeping for 599.999765 seconds
+
+2022-07-08 04:17:28 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:17:28 info: GET / INFO:elastalert:Sleeping for 599.999755 seconds
+
+2022-07-08 04:19:32 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 04:19:32 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 04:00 KST to 2022-07-08 04:19 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+INFO:elastalert:CPU usgae range 1172
+
+2022-07-08 04:26:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:26 KST
+
+2022-07-08 04:26:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:26 KST
+
+2022-07-08 04:26:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:26 KST
+
+2022-07-08 04:26:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:26 KST
+
+2022-07-08 04:26:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:26 KST
+
+2022-07-08 04:26:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:26 KST
+
+2022-07-08 04:27:20 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999775 seconds
+
+2022-07-08 04:27:23 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:27:23 info: GET / INFO:elastalert:Sleeping for 599.999757 seconds
+
+2022-07-08 04:27:28 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:27:28 info: GET / INFO:elastalert:Sleeping for 599.999752 seconds
+
+2022-07-08 04:29:34 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 04:29:34 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 04:10 KST to 2022-07-08 04:29 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 04:29:34 info: GET / INFO:elastalert:CPU usgae range 1174
+
+2022-07-08 04:36:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:36 KST
+
+2022-07-08 04:36:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:36 KST
+
+2022-07-08 04:36:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:36 KST
+
+2022-07-08 04:36:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:36 KST
+
+2022-07-08 04:36:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:36 KST
+
+2022-07-08 04:36:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:36 KST
+
+2022-07-08 04:37:20 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:37:20 info: GET / INFO:elastalert:Sleeping for 599.999752 seconds
+
+2022-07-08 04:37:23 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:37:23 info: GET / INFO:elastalert:Sleeping for 599.999736 seconds
+
+2022-07-08 04:37:28 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:37:28 info: GET / INFO:elastalert:Sleeping for 599.999771 seconds
+
+2022-07-08 04:39:36 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 04:39:36 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 04:20 KST to 2022-07-08 04:39 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+INFO:elastalert:CPU usgae range 1176
+
+2022-07-08 04:46:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:46 KST
+
+2022-07-08 04:46:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:46 KST
+
+2022-07-08 04:46:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:46 KST
+
+2022-07-08 04:46:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:46 KST
+
+2022-07-08 04:46:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:46 KST
+
+2022-07-08 04:46:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:46 KST
+
+2022-07-08 04:47:20 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:47:20 info: GET / INFO:elastalert:Sleeping for 599.999758 seconds
+
+2022-07-08 04:47:23 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:47:23 info: GET / INFO:elastalert:Sleeping for 599.999781 seconds
+
+2022-07-08 04:47:28 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:47:28 info: GET / INFO:elastalert:Sleeping for 599.999759 seconds
+
+2022-07-08 04:49:36 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 04:49:36 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 04:30 KST to 2022-07-08 04:49 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 04:49:36 info: GET / INFO:elastalert:CPU usgae range 1176
+
+2022-07-08 04:56:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:56 KST
+
+2022-07-08 04:56:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:56 KST
+
+2022-07-08 04:56:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:56 KST
+
+2022-07-08 04:56:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:56 KST
+
+2022-07-08 04:56:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 04:56 KST
+
+2022-07-08 04:56:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 04:56 KST
+
+2022-07-08 04:57:20 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:57:20 info: GET / INFO:elastalert:Sleeping for 599.999739 seconds
+
+2022-07-08 04:57:23 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:57:23 info: GET / INFO:elastalert:Sleeping for 599.999757 seconds
+
+2022-07-08 04:57:28 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 04:57:28 info: GET / INFO:elastalert:Sleeping for 599.99975 seconds
+
+2022-07-08 04:59:36 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 04:59:36 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 04:40 KST to 2022-07-08 04:59 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 04:59:36 info: GET / INFO:elastalert:CPU usgae range 1176
+
+2022-07-08 05:06:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:06 KST
+
+2022-07-08 05:06:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:06 KST
+
+2022-07-08 05:06:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:06 KST
+
+2022-07-08 05:06:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:06 KST
+
+2022-07-08 05:06:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:06 KST
+
+2022-07-08 05:06:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:06 KST
+
+2022-07-08 05:07:21 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 05:07:21 info: GET / INFO:elastalert:Sleeping for 599.999659 seconds
+
+2022-07-08 05:07:23 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 05:07:23 info: GET / INFO:elastalert:Sleeping for 599.99977 seconds
+
+2022-07-08 05:07:29 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999792 seconds
+
+2022-07-08 05:09:37 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 05:09:37 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 04:50 KST to 2022-07-08 05:09 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 05:09:37 info: GET / INFO:elastalert:CPU usgae range 1177
+
+2022-07-08 05:16:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:16 KST
+
+2022-07-08 05:16:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:16 KST
+
+2022-07-08 05:16:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:16 KST
+
+2022-07-08 05:16:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:16 KST
+
+2022-07-08 05:16:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:16 KST
+
+2022-07-08 05:16:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:16 KST
+
+2022-07-08 05:17:21 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 05:17:21 info: GET / INFO:elastalert:Sleeping for 599.999725 seconds
+
+2022-07-08 05:17:23 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999778 seconds
+
+2022-07-08 05:17:29 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 05:17:29 info: GET / INFO:elastalert:Sleeping for 599.999767 seconds
+
+2022-07-08 05:19:40 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 05:19:40 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 05:00 KST to 2022-07-08 05:19 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 05:19:40 info: GET / INFO:elastalert:CPU usgae range 1180
+
+2022-07-08 05:26:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:26 KST
+
+2022-07-08 05:26:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:26 KST
+
+2022-07-08 05:26:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:26 KST
+
+2022-07-08 05:26:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:26 KST
+
+2022-07-08 05:26:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:26 KST
+
+2022-07-08 05:26:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:26 KST
+
+2022-07-08 05:27:21 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999765 seconds
+
+2022-07-08 05:27:23 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999744 seconds
+
+2022-07-08 05:27:29 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 05:27:29 info: GET / INFO:elastalert:Sleeping for 599.999764 seconds
+
+2022-07-08 05:29:41 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 05:29:41 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 05:10 KST to 2022-07-08 05:29 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 05:29:41 info: GET / INFO:elastalert:CPU usgae range 1181
+
+2022-07-08 05:36:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:36 KST
+
+2022-07-08 05:36:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:36 KST
+
+2022-07-08 05:36:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:36 KST
+
+2022-07-08 05:36:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:36 KST
+
+2022-07-08 05:36:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:36 KST
+
+2022-07-08 05:36:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:36 KST
+
+2022-07-08 05:37:21 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 05:37:21 info: GET / INFO:elastalert:Sleeping for 599.999756 seconds
+
+2022-07-08 05:37:23 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 05:37:23 info: GET / INFO:elastalert:Sleeping for 599.999733 seconds
+
+2022-07-08 05:37:29 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 05:37:29 info: GET / INFO:elastalert:Sleeping for 599.999774 seconds
+
+2022-07-08 05:39:44 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 05:39:44 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 05:20 KST to 2022-07-08 05:39 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 05:39:44 info: GET / INFO:elastalert:CPU usgae range 1184
+
+2022-07-08 05:46:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:46 KST
+
+2022-07-08 05:46:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:46 KST
+
+2022-07-08 05:46:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:46 KST
+
+2022-07-08 05:46:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:46 KST
+
+2022-07-08 05:46:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:46 KST
+
+2022-07-08 05:46:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:46 KST
+
+2022-07-08 05:47:21 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 05:47:21 info: GET / INFO:elastalert:Sleeping for 599.999786 seconds
+
+2022-07-08 05:47:23 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 05:47:23 info: GET / INFO:elastalert:Sleeping for 599.999751 seconds
+
+2022-07-08 05:47:29 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 05:47:29 info: GET / INFO:elastalert:Sleeping for 599.999769 seconds
+
+2022-07-08 05:49:44 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 05:49:44 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 05:30 KST to 2022-07-08 05:49 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 05:49:44 info: GET / INFO:elastalert:CPU usgae range 1184
+
+2022-07-08 05:56:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:56 KST
+
+2022-07-08 05:56:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:56 KST
+
+2022-07-08 05:56:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:56 KST
+
+2022-07-08 05:56:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:56 KST
+
+2022-07-08 05:56:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 05:56 KST
+
+2022-07-08 05:56:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 05:56 KST
+
+2022-07-08 05:57:21 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 05:57:21 info: GET / INFO:elastalert:Sleeping for 599.999756 seconds
+
+2022-07-08 05:57:23 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 05:57:23 info: GET / INFO:elastalert:Sleeping for 599.999765 seconds
+
+2022-07-08 05:57:29 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 05:57:29 info: GET / INFO:elastalert:Sleeping for 599.99973 seconds
+
+2022-07-08 05:59:48 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 05:59:48 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 05:40 KST to 2022-07-08 05:59 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 05:59:48 info: GET / INFO:elastalert:CPU usgae range 1188
+
+2022-07-08 06:06:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:06 KST
+
+2022-07-08 06:06:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:06 KST
+
+2022-07-08 06:06:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:06 KST
+
+2022-07-08 06:06:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:06 KST
+
+2022-07-08 06:06:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:06 KST
+
+2022-07-08 06:06:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:06 KST
+
+2022-07-08 06:07:21 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 06:07:21 info: GET / INFO:elastalert:Sleeping for 599.999788 seconds
+
+2022-07-08 06:07:23 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 06:07:23 info: GET / INFO:elastalert:Sleeping for 599.99977 seconds
+
+2022-07-08 06:07:29 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 06:07:29 info: GET / INFO:elastalert:Sleeping for 599.999764 seconds
+
+2022-07-08 06:09:49 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 06:09:49 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 05:50 KST to 2022-07-08 06:09 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 06:09:49 info: GET / INFO:elastalert:CPU usgae range 1189
+
+2022-07-08 06:16:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:16 KST
+
+2022-07-08 06:16:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:16 KST
+
+2022-07-08 06:16:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:16 KST
+
+2022-07-08 06:16:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:16 KST
+
+2022-07-08 06:16:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:16 KST
+
+2022-07-08 06:16:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:16 KST
+
+2022-07-08 06:17:21 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 06:17:21 info: GET / INFO:elastalert:Sleeping for 599.999759 seconds
+
+2022-07-08 06:17:23 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 06:17:23 info: GET / INFO:elastalert:Sleeping for 599.999735 seconds
+
+2022-07-08 06:17:29 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999754 seconds
+
+2022-07-08 06:19:51 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 06:19:51 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 06:00 KST to 2022-07-08 06:19 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 06:19:51 info: GET / INFO:elastalert:CPU usgae range 1191
+
+2022-07-08 06:26:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:26 KST
+
+2022-07-08 06:26:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:26 KST
+
+2022-07-08 06:26:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:26 KST
+
+2022-07-08 06:26:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:26 KST
+
+2022-07-08 06:26:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:26 KST
+
+2022-07-08 06:26:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:26 KST
+
+2022-07-08 06:27:21 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 06:27:21 info: GET / INFO:elastalert:Sleeping for 599.999774 seconds
+
+2022-07-08 06:27:23 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999727 seconds
+
+2022-07-08 06:27:29 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 06:27:29 info: GET / INFO:elastalert:Sleeping for 599.999745 seconds
+
+2022-07-08 06:29:54 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 06:29:54 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 06:10 KST to 2022-07-08 06:29 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 06:29:54 info: GET / INFO:elastalert:CPU usgae range 1194
+
+2022-07-08 06:36:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:36 KST
+
+2022-07-08 06:36:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:36 KST
+
+2022-07-08 06:36:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:36 KST
+
+2022-07-08 06:36:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:36 KST
+
+2022-07-08 06:36:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:36 KST
+
+2022-07-08 06:36:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:36 KST
+
+2022-07-08 06:37:21 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999797 seconds
+
+2022-07-08 06:37:23 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 06:37:23 info: GET / INFO:elastalert:Sleeping for 599.999733 seconds
+
+2022-07-08 06:37:29 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999764 seconds
+
+2022-07-08 06:39:59 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 06:39:59 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 06:20 KST to 2022-07-08 06:39 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 06:39:59 info: GET / INFO:elastalert:CPU usgae range 1199
+
+2022-07-08 06:46:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:46 KST
+
+2022-07-08 06:46:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:46 KST
+
+2022-07-08 06:46:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:46 KST
+
+2022-07-08 06:46:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:46 KST
+
+2022-07-08 06:46:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:46 KST
+
+2022-07-08 06:46:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:46 KST
+
+2022-07-08 06:47:21 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 06:47:21 info: GET / INFO:elastalert:Sleeping for 599.99976 seconds
+
+2022-07-08 06:47:24 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 06:47:24 info: GET / INFO:elastalert:Sleeping for 599.999754 seconds
+
+2022-07-08 06:47:29 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 06:47:29 info: GET / INFO:elastalert:Sleeping for 599.999765 seconds
+
+2022-07-08 06:50:02 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 06:50:02 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 06:50:02 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 06:30 KST to 2022-07-08 06:50 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 06:50:02 info: GET / INFO:elastalert:CPU usgae range 1202
+
+2022-07-08 06:56:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:56 KST
+
+2022-07-08 06:56:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:56 KST
+
+2022-07-08 06:56:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:56 KST
+
+2022-07-08 06:56:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:56 KST
+
+2022-07-08 06:56:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 06:56 KST
+
+2022-07-08 06:56:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 06:56 KST
+
+2022-07-08 06:57:21 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 06:57:21 info: GET / INFO:elastalert:Sleeping for 599.999791 seconds
+
+2022-07-08 06:57:24 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 06:57:24 info: GET / INFO:elastalert:Sleeping for 599.999727 seconds
+
+2022-07-08 06:57:29 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999759 seconds
+
+2022-07-08 07:00:06 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 07:00:06 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 06:50 KST to 2022-07-08 07:00 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 07:00:06 info: GET / INFO:elastalert:CPU usgae range 606
+
+2022-07-08 07:06:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:06 KST
+
+2022-07-08 07:06:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:06 KST
+
+2022-07-08 07:06:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:06 KST
+
+2022-07-08 07:06:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:06 KST
+
+2022-07-08 07:06:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:06 KST
+
+2022-07-08 07:06:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:06 KST
+
+2022-07-08 07:07:21 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:07:21 info: GET / INFO:elastalert:Sleeping for 599.999782 seconds
+
+2022-07-08 07:07:24 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:07:24 info: GET / INFO:elastalert:Sleeping for 599.999757 seconds
+
+2022-07-08 07:07:29 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:07:29 info: GET / INFO:elastalert:Sleeping for 599.999745 seconds
+
+2022-07-08 07:10:09 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 07:10:09 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 07:00 KST to 2022-07-08 07:10 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 07:10:09 info: GET / INFO:elastalert:CPU usgae range 609
+
+2022-07-08 07:16:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:16 KST
+
+2022-07-08 07:16:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:16 KST
+
+2022-07-08 07:16:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:16 KST
+
+2022-07-08 07:16:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:16 KST
+
+2022-07-08 07:16:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:16 KST
+
+2022-07-08 07:16:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:16 KST
+
+2022-07-08 07:17:21 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999783 seconds
+
+2022-07-08 07:17:24 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:17:24 info: GET / INFO:elastalert:Sleeping for 599.999753 seconds
+
+2022-07-08 07:17:29 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:17:29 info: GET / INFO:elastalert:Sleeping for 599.999781 seconds
+
+2022-07-08 07:20:14 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 07:20:14 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 07:10 KST to 2022-07-08 07:20 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 07:20:14 info: GET / INFO:elastalert:CPU usgae range 614
+
+2022-07-08 07:26:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:26 KST
+
+2022-07-08 07:26:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:26 KST
+
+2022-07-08 07:26:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:26 KST
+
+2022-07-08 07:26:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:26 KST
+
+2022-07-08 07:26:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:26 KST
+
+2022-07-08 07:26:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:26 KST
+
+2022-07-08 07:27:21 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:27:21 info: GET / INFO:elastalert:Sleeping for 599.999774 seconds
+
+2022-07-08 07:27:24 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:27:24 info: GET / INFO:elastalert:Sleeping for 599.99979 seconds
+
+2022-07-08 07:27:29 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:27:29 info: GET / INFO:elastalert:Sleeping for 599.999685 seconds
+
+2022-07-08 07:30:18 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 07:30:18 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 07:20 KST to 2022-07-08 07:30 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 07:30:18 info: GET / INFO:elastalert:CPU usgae range 618
+
+2022-07-08 07:36:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:36 KST
+
+2022-07-08 07:36:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:36 KST
+
+2022-07-08 07:36:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:36 KST
+
+2022-07-08 07:36:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:36 KST
+
+2022-07-08 07:36:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:36 KST
+
+2022-07-08 07:36:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:36 KST
+
+2022-07-08 07:37:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:37:22 info: GET / INFO:elastalert:Sleeping for 599.999775 seconds
+
+2022-07-08 07:37:24 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:37:24 info: GET / INFO:elastalert:Sleeping for 599.999799 seconds
+
+2022-07-08 07:37:30 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:37:30 info: GET / INFO:elastalert:Sleeping for 599.999767 seconds
+
+2022-07-08 07:40:21 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 07:40:21 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 07:30 KST to 2022-07-08 07:40 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+INFO:elastalert:CPU usgae range 621
+
+2022-07-08 07:46:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:46 KST
+
+2022-07-08 07:46:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:46 KST
+
+2022-07-08 07:46:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:46 KST
+
+2022-07-08 07:46:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:46 KST
+
+2022-07-08 07:46:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:46 KST
+
+2022-07-08 07:46:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:46 KST
+
+2022-07-08 07:47:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:47:22 info: GET / INFO:elastalert:Sleeping for 599.999783 seconds
+
+2022-07-08 07:47:24 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:47:24 info: GET / INFO:elastalert:Sleeping for 599.999782 seconds
+
+2022-07-08 07:47:30 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:47:30 info: GET / INFO:elastalert:Sleeping for 599.999767 seconds
+
+2022-07-08 07:50:22 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 07:50:22 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 07:40 KST to 2022-07-08 07:50 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 07:50:22 info: GET / INFO:elastalert:CPU usgae range 622
+
+2022-07-08 07:56:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:56 KST
+
+2022-07-08 07:56:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:56 KST
+
+2022-07-08 07:56:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:56 KST
+
+2022-07-08 07:56:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:56 KST
+
+2022-07-08 07:56:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 07:56 KST
+
+2022-07-08 07:56:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 07:56 KST
+
+2022-07-08 07:57:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:57:22 info: GET / INFO:elastalert:Sleeping for 599.999756 seconds
+
+2022-07-08 07:57:24 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 07:57:24 info: GET / INFO:elastalert:Sleeping for 599.999792 seconds
+
+2022-07-08 07:57:30 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999728 seconds
+
+2022-07-08 08:00:24 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 08:00:24 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 07:50 KST to 2022-07-08 08:00 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 08:00:24 info: GET / INFO:elastalert:CPU usgae range 624
+
+2022-07-08 08:06:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:06 KST
+
+2022-07-08 08:06:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:06 KST
+
+2022-07-08 08:06:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:06 KST
+
+2022-07-08 08:06:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:06 KST
+
+2022-07-08 08:06:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:06 KST
+
+2022-07-08 08:06:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:06 KST
+
+2022-07-08 08:07:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 08:07:22 info: GET / INFO:elastalert:Sleeping for 599.999783 seconds
+
+2022-07-08 08:07:24 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 08:07:24 info: GET / INFO:elastalert:Sleeping for 599.999798 seconds
+
+2022-07-08 08:07:30 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 08:07:30 info: GET / INFO:elastalert:Sleeping for 599.999742 seconds
+
+2022-07-08 08:10:25 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 08:10:25 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 08:00 KST to 2022-07-08 08:10 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 08:10:25 info: GET / INFO:elastalert:CPU usgae range 625
+
+2022-07-08 08:16:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:16 KST
+
+2022-07-08 08:16:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:16 KST
+
+2022-07-08 08:16:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:16 KST
+
+2022-07-08 08:16:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:16 KST
+
+2022-07-08 08:16:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:16 KST
+
+2022-07-08 08:16:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:16 KST
+
+2022-07-08 08:17:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 08:17:22 info: GET / INFO:elastalert:Sleeping for 599.999786 seconds
+
+2022-07-08 08:17:24 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999781 seconds
+
+2022-07-08 08:17:30 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 08:17:30 info: GET / INFO:elastalert:Sleeping for 599.999768 seconds
+
+2022-07-08 08:20:27 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 08:20:27 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 08:10 KST to 2022-07-08 08:20 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 08:20:27 info: GET / INFO:elastalert:CPU usgae range 627
+
+2022-07-08 08:26:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:26 KST
+
+2022-07-08 08:26:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:26 KST
+
+2022-07-08 08:26:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:26 KST
+
+2022-07-08 08:26:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:26 KST
+
+2022-07-08 08:26:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:26 KST
+
+2022-07-08 08:26:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:26 KST
+
+2022-07-08 08:27:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 08:27:22 info: GET / INFO:elastalert:Sleeping for 599.999787 seconds
+
+2022-07-08 08:27:24 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 08:27:24 info: GET / INFO:elastalert:Sleeping for 599.999768 seconds
+
+2022-07-08 08:27:30 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 08:27:30 info: GET / INFO:elastalert:Sleeping for 599.999736 seconds
+
+2022-07-08 08:30:28 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 08:30:28 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 08:20 KST to 2022-07-08 08:30 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 08:30:28 info: GET / INFO:elastalert:CPU usgae range 628
+
+2022-07-08 08:36:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:36 KST
+
+2022-07-08 08:36:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:36 KST
+
+2022-07-08 08:36:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:36 KST
+
+2022-07-08 08:36:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:36 KST
+
+2022-07-08 08:36:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:36 KST
+
+2022-07-08 08:36:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:36 KST
+
+2022-07-08 08:37:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 08:37:22 info: GET / INFO:elastalert:Sleeping for 599.999762 seconds
+
+2022-07-08 08:37:24 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999778 seconds
+
+2022-07-08 08:37:30 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999711 seconds
+
+2022-07-08 08:40:30 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 08:40:30 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 08:30 KST to 2022-07-08 08:40 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+INFO:elastalert:CPU usgae range 630
+
+2022-07-08 08:46:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:46 KST
+
+2022-07-08 08:46:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:46 KST
+
+2022-07-08 08:46:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:46 KST
+
+2022-07-08 08:46:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:46 KST
+
+2022-07-08 08:46:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:46 KST
+
+2022-07-08 08:46:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:46 KST
+
+2022-07-08 08:47:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 08:47:22 info: GET / INFO:elastalert:Sleeping for 599.999722 seconds
+
+2022-07-08 08:47:24 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 08:47:24 info: GET / INFO:elastalert:Sleeping for 599.999799 seconds
+
+2022-07-08 08:47:30 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999772 seconds
+
+2022-07-08 08:50:34 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 08:50:34 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 08:40 KST to 2022-07-08 08:50 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 08:50:34 info: GET / INFO:elastalert:CPU usgae range 634
+
+2022-07-08 08:56:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:56 KST
+
+2022-07-08 08:56:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:56 KST
+
+2022-07-08 08:56:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:56 KST
+
+2022-07-08 08:56:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:56 KST
+
+2022-07-08 08:56:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 08:56 KST
+
+2022-07-08 08:56:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 08:56 KST
+
+2022-07-08 08:57:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 08:57:22 info: GET / INFO:elastalert:Sleeping for 599.999769 seconds
+
+2022-07-08 08:57:24 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999777 seconds
+
+2022-07-08 08:57:30 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 08:57:30 info: GET / INFO:elastalert:Sleeping for 599.999733 seconds
+
+2022-07-08 09:00:36 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 09:00:36 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 08:50 KST to 2022-07-08 09:00 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 09:00:36 info: GET / INFO:elastalert:CPU usgae range 636
+
+2022-07-08 09:06:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 09:06 KST
+
+2022-07-08 09:06:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 09:06 KST
+
+2022-07-08 09:06:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 09:06 KST
+
+2022-07-08 09:06:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 09:06 KST
+
+2022-07-08 09:06:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 09:06 KST
+
+2022-07-08 09:06:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 09:06 KST
+
+2022-07-08 09:07:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 09:07:22 info: GET / INFO:elastalert:Sleeping for 599.999733 seconds
+
+2022-07-08 09:07:24 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 09:07:24 info: GET / INFO:elastalert:Sleeping for 599.999762 seconds
+
+2022-07-08 09:07:30 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 09:07:30 info: GET / INFO:elastalert:Sleeping for 599.999745 seconds
+
+2022-07-08 09:10:40 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 09:10:40 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 09:00 KST to 2022-07-08 09:10 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 09:10:40 info: GET / INFO:elastalert:CPU usgae range 640
+
+2022-07-08 09:16:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 09:16 KST
+
+2022-07-08 09:16:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 09:16 KST
+
+2022-07-08 09:16:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 09:16 KST
+
+2022-07-08 09:16:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 09:16 KST
+
+2022-07-08 09:16:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 09:16 KST
+
+2022-07-08 09:16:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 09:16 KST
+
+2022-07-08 09:17:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 09:17:22 info: GET / INFO:elastalert:Sleeping for 599.999787 seconds
+
+2022-07-08 09:17:24 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 09:17:24 info: GET / INFO:elastalert:Sleeping for 599.999776 seconds
+
+2022-07-08 09:17:30 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 09:17:30 info: GET / INFO:elastalert:Sleeping for 599.999765 seconds
+
+2022-07-08 09:20:44 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 09:20:44 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 09:10 KST to 2022-07-08 09:20 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 09:20:44 info: GET / INFO:elastalert:CPU usgae range 644
+
+2022-07-08 09:26:10 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 09:26 KST
+
+2022-07-08 09:26:10 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 09:26 KST
+
+2022-07-08 09:26:12 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 09:26 KST
+
+2022-07-08 09:26:12 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 09:26 KST
+
+2022-07-08 09:26:15 info: GET / INFO:elastalert:Background configuration change check run at 2022-07-08 09:26 KST
+
+2022-07-08 09:26:15 info: GET / INFO:elastalert:Background alerts thread 0 pending alerts sent at 2022-07-08 09:26 KST
+
+2022-07-08 09:27:22 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 09:27:22 info: GET / INFO:elastalert:Sleeping for 599.999784 seconds
+
+2022-07-08 09:27:24 info: GET / INFO:elastalert:Disabled rules are: []
+INFO:elastalert:Sleeping for 599.999763 seconds
+
+2022-07-08 09:27:30 info: GET / INFO:elastalert:Disabled rules are: []
+
+2022-07-08 09:27:30 info: GET / INFO:elastalert:Sleeping for 599.999727 seconds
+
+2022-07-08 09:30:46 info: GET / INFO:elastalert:Query start and end time converting UTC to query_timezone : Asia/Seoul
+
+2022-07-08 09:30:46 info: GET / INFO:elastalert:Ran CPU usgae from 2022-07-08 09:20 KST to 2022-07-08 09:30 KST: 0 query hits (0 already seen), 0 matches, 0 alerts sent
+
+2022-07-08 09:30:46 info: GET / INFO:elastalert:CPU usgae range 646
+
+2022-07-08 09:30:58 info: this is the environment: 
+2022-07-08 09:34:32 info: this is the environment: 

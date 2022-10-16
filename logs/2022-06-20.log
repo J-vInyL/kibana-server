@@ -1,0 +1,110 @@
+2022-06-20 09:19:27 info: this is the environment: 
+2022-06-20 09:19:30 info: Server is running on port 8000
+2022-06-20 09:19:30 info: DB connected
+2022-06-20 09:27:58 info: this is the environment: 
+2022-06-20 09:27:59 info: Server is running on port 8000
+2022-06-20 09:27:59 info: DB connected
+2022-06-20 09:28:11 info: GET / {
+  "templateName" : "[긴급]서버 장애 상태 알림",
+  "templatePath" : "templates/mail/createdTemplate/[긴급]서버 장애 상태 알림",
+  "created" : 1655046000.000000000,
+  "updated" : 1655046000.000000000,
+  "code" : "createEnv",
+  "callMailService" : "serverStatusAlert"
+}
+2022-06-20 09:29:10 info: GET / {
+  "templateName" : "[긴급]서버 장애 상태 알림",
+  "templatePath" : "templates/mail/createdTemplate/[긴급]서버 장애 상태 알림",
+  "created" : 1655046000.000000000,
+  "updated" : 1655046000.000000000,
+  "code" : "createEnv",
+  "callMailService" : "serverStatusAlert"
+}
+2022-06-20 09:32:15 info: this is the environment: 
+2022-06-20 09:32:16 info: Server is running on port 8000
+2022-06-20 09:32:16 info: DB connected
+2022-06-20 09:57:58 info: this is the environment: 
+2022-06-20 09:57:58 info: Server is running on port 8000
+2022-06-20 09:57:58 info: DB connected
+2022-06-20 09:58:10 info: GET / {
+  "templateName" : "[긴급]서버 장애 상태 알림",
+  "templatePath" : "templates/mail/createdTemplate/[긴급]서버 장애 상태 알림",
+  "created" : 1655046000.000000000,
+  "updated" : 1655046000.000000000,
+  "code" : "createEnv",
+  "callMailService" : "serverStatusAlert"
+}
+2022-06-20 09:59:10 info: GET / {
+  "templateName" : "[긴급]서버 장애 상태 알림",
+  "templatePath" : "templates/mail/createdTemplate/[긴급]서버 장애 상태 알림",
+  "created" : 1655046000.000000000,
+  "updated" : 1655046000.000000000,
+  "code" : "createEnv",
+  "callMailService" : "serverStatusAlert"
+}
+2022-06-20 10:00:10 info: GET / {
+  "templateName" : "[긴급]서버 장애 상태 알림",
+  "templatePath" : "templates/mail/createdTemplate/[긴급]서버 장애 상태 알림",
+  "created" : 1655046000.000000000,
+  "updated" : 1655046000.000000000,
+  "code" : "createEnv",
+  "callMailService" : "serverStatusAlert"
+}
+2022-06-20 10:03:11 info: GET / {
+  "templateName" : "[긴급]서버 장애 상태 알림",
+  "templatePath" : "templates/mail/createdTemplate/[긴급]서버 장애 상태 알림",
+  "created" : 1655046000.000000000,
+  "updated" : 1655046000.000000000,
+  "code" : "createEnv",
+  "callMailService" : "serverStatusAlert"
+}
+2022-06-20 10:04:11 info: GET / {
+  "templateName" : "[긴급]서버 장애 상태 알림",
+  "templatePath" : "templates/mail/createdTemplate/[긴급]서버 장애 상태 알림",
+  "created" : 1655046000.000000000,
+  "updated" : 1655046000.000000000,
+  "code" : "createEnv",
+  "callMailService" : "serverStatusAlert"
+}
+2022-06-20 10:05:10 info: GET / {
+  "templateName" : "[긴급]서버 장애 상태 알림",
+  "templatePath" : "templates/mail/createdTemplate/[긴급]서버 장애 상태 알림",
+  "created" : 1655046000.000000000,
+  "updated" : 1655046000.000000000,
+  "code" : "createEnv",
+  "callMailService" : "serverStatusAlert"
+}
+2022-06-20 14:02:31 info: this is the environment: 
+2022-06-20 14:02:44 info: Server is running on port 8000
+2022-06-20 14:02:45 info: DB connected
+2022-06-20 14:11:32 info: this is the environment: 
+2022-06-20 14:11:33 info: Server is running on port 8000
+2022-06-20 14:11:33 info: DB connected
+2022-06-20 14:24:32 info: this is the environment: 
+2022-06-20 14:24:33 info: Server is running on port 8000
+2022-06-20 14:24:33 info: DB connected
+2022-06-20 14:45:59 info: this is the environment: 
+2022-06-20 14:45:59 info: Server is running on port 8000
+2022-06-20 14:45:59 info: DB connected
+2022-06-20 16:37:25 info: this is the environment: 
+2022-06-20 16:37:26 info: Server is running on port 8000
+2022-06-20 16:37:26 info: DB connected
+2022-06-20 16:42:05 info: this is the environment: 
+2022-06-20 16:42:06 info: Server is running on port 8000
+2022-06-20 16:42:06 info: DB connected
+2022-06-20 16:57:39 info: this is the environment: 
+2022-06-20 16:57:40 info: GET / TEST
+2022-06-20 17:02:42 info: this is the environment: 
+2022-06-20 17:02:43 info: GET / TEST
+2022-06-20 17:03:24 info: this is the environment: 
+2022-06-20 17:03:25 info: Server is running on port 8000
+2022-06-20 17:03:25 info: DB connected
+2022-06-20 17:07:16 info: this is the environment: 
+2022-06-20 17:07:16 info: Server is running on port 8000
+2022-06-20 17:07:17 info: DB connected
+2022-06-20 17:17:47 info: this is the environment: 
+2022-06-20 17:17:48 info: Server is running on port 8000
+2022-06-20 17:17:48 info: DB connected
+2022-06-20 17:17:53 info: this is the environment: 
+2022-06-20 17:17:54 info: Server is running on port 8000
+2022-06-20 17:17:54 info: DB connected

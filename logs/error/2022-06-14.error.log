@@ -1,0 +1,1 @@
+2022-06-14 00:00:01 error: ERROR MESSAGE / ResponseError: illegal_argument_exception: [illegal_argument_exception] Reason: index [.ds-metricbeat-8.0.1-2022.05.24-000004] is the write index for data stream [metricbeat-8.0.1] and cannot be deleted
